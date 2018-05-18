@@ -3,9 +3,5 @@ CodeForces Problems Category sorted
 
 ## Data Structures
 
-| id  | category |
-| ------------- | ------------- |
-| 12356 - Army Buddies  | Data Structure - Array  |
-| 10258 - Contest Scoreboard  | multifield-Sorting  |
-| 11988 - Broken Keyboard   | LinkedList  |
-| 409 - Excuses, Excuses!   | Regex  |
+##stack
+1- http://codeforces.com/contest/982/problem/B  
