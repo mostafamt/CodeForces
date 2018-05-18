@@ -1,6 +1,7 @@
 # CodeForces
 CodeForces Problems Category sorted
 
+## Data Structures
 
 | id  | category |
 | ------------- | ------------- |
