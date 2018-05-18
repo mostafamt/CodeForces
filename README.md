@@ -16,3 +16,9 @@ solution : http://codeforces.com/contest/982/submission/38387333 <br><br>
 
 2- http://codeforces.com/problemset/problem/979/C (dfs) <br>
 solution : http://codeforces.com/contest/979/submission/38267117 <br>
+
+## Math
+
+### Prime Numbers
+1- http://codeforces.com/contest/822/problem/D (sieve of eratothensis) <br>
+sloution : http://codeforces.com/contest/822/submission/28411813
