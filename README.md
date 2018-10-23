@@ -10,7 +10,7 @@ solution : http://codeforces.com/contest/982/submission/38385356
 ## Algorithms Paradigms
 ### Brute Force
 1- https://codeforces.com/problemset/problem/1054/C ( assume + check your assemption )<br>
-2- tutorial : codeforces.com/blog/entry/62563<br>
+2- tutorial : http://codeforces.com/blog/entry/62563<br>
 
 ## Graph
 
