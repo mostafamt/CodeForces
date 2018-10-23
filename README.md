@@ -7,6 +7,11 @@ CodeForces Problems Category sorted
 1- http://codeforces.com/contest/982/problem/B  ( sort + stack )<br>
 solution : http://codeforces.com/contest/982/submission/38385356
 
+## Algorithms Paradigms
+### Brute Force
+1- https://codeforces.com/problemset/problem/1054/C ( assume + check your assemption )<br>
+2- tutorial : codeforces.com/blog/entry/62563<br>
+
 ## Graph
 
 ### Tree 
