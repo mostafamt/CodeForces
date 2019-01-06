@@ -4,9 +4,7 @@ CodeForces Problems Category sorted
 ## Data Structures
 
 ### stack
-1- http://codeforces.com/contest/982/problem/B  ( sort + stack )<br>
-solution : http://codeforces.com/contest/982/submission/38385356
-
+1- [Bus of Characters](http://codeforces.com/contest/982/problem/B) ( sort + stack )<br>
 ## Algorithms Paradigms
 ### Brute Force
 1- https://codeforces.com/problemset/problem/1054/C ( assume + check your assemption )<br>
