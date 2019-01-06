@@ -20,8 +20,7 @@
 ## Math
 
 ### Prime Numbers
-1- http://codeforces.com/contest/822/problem/D (sieve of eratothensis) <br>
-sloution : http://codeforces.com/contest/822/submission/28411813
+1- [My pretty girl Noora](http://codeforces.com/contest/822/problem/D) (sieve of eratothensis) <br>
 
 ### GCD ( Greatest Common Divisor )
 1- https://codeforces.com/problemset/problem/1068/B ( count number of differnet gcd(a,b) )<br>
