@@ -9,8 +9,7 @@
 1- [Candies Distribution](https://codeforces.com/problemset/problem/1054/C) ( assume + check your assemption )<br>
 
 ### Divide and Conqure
-1- https://codeforces.com/problemset/problem/1068/A ( binary search )<br>
-solution : https://codeforces.com/contest/1068/submission/44814115
+1- [Birthday](https://codeforces.com/problemset/problem/1068/A) ( binary search )<br>
 
 ## Graph
 
