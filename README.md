@@ -15,7 +15,6 @@
 
 ### Tree 
 1- [Cut 'em all!](http://codeforces.com/contest/982/problem/C) ( Maximum edge removal from tree to make even forest ) <br> 
-
 2- [Kuro and Walking Route](http://codeforces.com/problemset/problem/979/C) (dfs) <br>
 
 ## Math
