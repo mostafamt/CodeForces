@@ -39,3 +39,9 @@ solution : https://codeforces.com/contest/1068/submission/44814958<br>
 ### Quadratic Equation
 1- [C. Meme Problem](https://codeforces.com/problemset/problem/1076/C) (just find roots for the equation)<br> 
 [Solution](https://codeforces.com/contest/1076/submission/45623727)<br>
+
+
+| Topic | Problems on Topic |
+| ----- | --- |
+| Binary Search | 812C |
+
