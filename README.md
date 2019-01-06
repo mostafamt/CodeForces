@@ -10,6 +10,7 @@
 
 ### Divide and Conqure
 1- [Birthday](https://codeforces.com/problemset/problem/1068/A) ( binary search )<br>
+2- [Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) (take care of overflow ) <br>
 
 ## Graph
 
@@ -27,9 +28,4 @@
 
 ### Quadratic Equation
 1- [C. Meme Problem](https://codeforces.com/problemset/problem/1076/C) (just find roots for the equation)<br> 
-
-
-| Topic | Problems on Topic |
-| ----- | --- |
-| Binary Search | 812C |
 
