@@ -23,12 +23,10 @@
 1- [My pretty girl Noora](http://codeforces.com/contest/822/problem/D) (sieve of eratothensis) <br>
 
 ### GCD ( Greatest Common Divisor )
-1- https://codeforces.com/problemset/problem/1068/B ( count number of differnet gcd(a,b) )<br>
-solution : https://codeforces.com/contest/1068/submission/44814958<br>
+1- [LCM](https://codeforces.com/problemset/problem/1068/B) ( count number of differnet gcd(a,b) )<br>
 
 ### Quadratic Equation
 1- [C. Meme Problem](https://codeforces.com/problemset/problem/1076/C) (just find roots for the equation)<br> 
-[Solution](https://codeforces.com/contest/1076/submission/45623727)<br>
 
 
 | Topic | Problems on Topic |
