@@ -6,8 +6,7 @@
 1- [Bus of Characters](http://codeforces.com/contest/982/problem/B) ( sort + stack )<br>
 ## Algorithms Paradigms
 ### Brute Force
-1- https://codeforces.com/problemset/problem/1054/C ( assume + check your assemption )<br>
-2- tutorial : http://codeforces.com/blog/entry/62563<br>
+1- [Candies Distribution](https://codeforces.com/problemset/problem/1054/C) ( assume + check your assemption )<br>
 
 ### Divide and Conqure
 1- https://codeforces.com/problemset/problem/1068/A ( binary search )<br>
