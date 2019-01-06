@@ -1,5 +1,4 @@
-# CodeForces
-CodeForces Problems Topics sorted
+# Codeforces Problems Topics sorted
 
 ## Data Structures
 
