@@ -27,8 +27,8 @@
 1- [LCM](https://codeforces.com/problemset/problem/1068/B) ( count number of differnet gcd(a,b) )<br>
 
 ### Quadratic Equation
-1- [C. Meme Problem](https://codeforces.com/problemset/problem/1076/C) (just find roots for the equation)<br> 
+1- [Meme Problem](https://codeforces.com/problemset/problem/1076/C) (just find roots for the equation)<br> 
 
 ### General
-1- [Lucky Permutation Triple](https://codeforces.com/problemset/problem/304/C)<br>
+1- [Lucky Permutation Triple](https://codeforces.com/problemset/problem/304/C)(try simple test cases )<br>
 
