@@ -29,3 +29,6 @@
 ### Quadratic Equation
 1- [C. Meme Problem](https://codeforces.com/problemset/problem/1076/C) (just find roots for the equation)<br> 
 
+### General
+1- [Lucky Permutation Triple](https://codeforces.com/problemset/problem/304/C)<br>
+
