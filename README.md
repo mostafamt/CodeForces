@@ -40,3 +40,5 @@
 ### Divisors
 1- [Duff in Love](https://codeforces.com/contest/588/problem/B)(get divisors)<br>
 
+### Number System 
+1- [The Child and Set](https://codeforces.com/contest/437/problem/B)(In Binary number ,each right digit has a subvalue from left one)<br>
