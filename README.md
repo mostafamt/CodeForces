@@ -2,8 +2,12 @@
 
 ## Data Structures
 
-### stack
+### Stack
 1- [Bus of Characters](http://codeforces.com/contest/982/problem/B) ( sort + stack )<br>
+
+### Map
+1- [Watchmen](https://codeforces.com/contest/651/problem/C) (work on formulas)<br>
+
 ## Algorithms Paradigms
 ### Brute Force
 1- [Candies Distribution](https://codeforces.com/problemset/problem/1054/C) ( assume + check your assemption )<br>
