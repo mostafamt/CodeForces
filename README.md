@@ -37,6 +37,6 @@
 1- [Lucky Permutation Triple](https://codeforces.com/problemset/problem/304/C)( try simple test cases )<br>
 2- [Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B)(modeling+simplify formulas)<br>
 
-### Divisor
+### Divisors
 1- [Duff in Love](https://codeforces.com/contest/588/problem/B)(get divisors)<br>
 
