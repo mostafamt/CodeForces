@@ -7,6 +7,7 @@
 
 ### Stack
 1- [Bus of Characters](http://codeforces.com/contest/982/problem/B) ( sort + stack )<br>
+2- [Game with string](https://codeforces.com/problemset/problem/1104/B)<br>
 
 ### Map
 1- [Watchmen](https://codeforces.com/contest/651/problem/C) (work on formulas)<br>
