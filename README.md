@@ -3,6 +3,9 @@
 
 [**K.Mostafa**](https://codeforces.com/profile/K.Mostafa)
 
+## Implementation
+1- [Tanya and Postcard](https://codeforces.com/contest/518/problem/B)<br>
+
 ## Data Structures
 
 ### Stack
