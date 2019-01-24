@@ -22,6 +22,7 @@
 ### Divide and Conqure
 1- [Birthday](https://codeforces.com/problemset/problem/1068/A) ( binary search )<br>
 2- [Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) (take care of overflow ) <br>
+3- [Game with modulo](https://codeforces.com/contest/1103/problem/B) (hard binary search ) <br>
 
 ### Dynamic Programming
 1- [Ayoub and Lost Array](https://codeforces.com/problemset/problem/1105/C)<br>
