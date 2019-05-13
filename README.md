@@ -53,3 +53,9 @@
 
 ### Number System 
 1- [The Child and Set](https://codeforces.com/contest/437/problem/B)(In Binary number ,each right digit has a subvalue from left one)<br>
+
+
+
+# Tutorials
+### [Expansion coefficient of the array](http://codeforces.com/contest/1159/problem/B)
+![](https://github.com/mostafamt/CodeForces/blob/master/img/CF559_B.png)
